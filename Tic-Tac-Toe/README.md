@@ -1,7 +1,7 @@
 ## gif
-![Animation1](pic/Animation1.gif)
-![Animation2](pic/Animation2.gif)
-![Animation3](pic/Animation3.gif)
+![Animation1](pic\Animation1.gif)
+![Animation2](pic\Animation2.gif)
+![Animation3](pic\Animation3.gif)
 
 ## flowchart
 ```mermaid
